@@ -29,15 +29,15 @@ SELECT
   s.source,
   COUNT(*) AS total_sessions,
 
-  -- Funnel step conversion rates
+  # Funnel step conversion rates
   1.0 * SUM(carted) / NULLIF(SUM(viewed), 0) AS view_to_cart_rate,
   1.0 * SUM(checked_out) / NULLIF(SUM(carted), 0) AS cart_to_checkout_rate,
   1.0 * SUM(purchased) / NULLIF(SUM(checked_out), 0) AS checkout_to_purchase_rate,
 
-  -- Overall purchase conversion
+  # Overall purchase conversion
   1.0 * SUM(purchased) / NULLIF(COUNT(*), 0) AS overall_conversion_rate,
 
-  -- Revenue metrics
+  # Revenue metrics
   COALESCE(SUM(r.revenue_usd), 0) AS total_revenue_usd,
   COALESCE(SUM(r.revenue_usd), 0) / COUNT(*) AS revenue_per_session
 
