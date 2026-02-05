@@ -29,6 +29,7 @@ What stood out:
 - Revenue is fairly spread across major categories rather than dominated by one.
 - Repeat customers make up a growing share of total orders over time.
 - North America and Western Europe drive most revenue, while some international markets show higher average order values.
+- Paid and referral traffic generate higher revenue per session, even though they contribute less overall volume than organic and direct.
 
 ![Executive Summary Dashboard](assets/screenshots/dashboard_01_executive_summary.png)
 
@@ -44,7 +45,6 @@ Questions explored:
 - Whether revenue is concentrated among a small number of products
 
 What stood out:
-- Customers who repeat purchase within the first year don't always return immediately, with a median length of 170 days.
 - Larger carts don't create a decline in conversion rate, but most sessions still involve small baskets.
 - Revenue is spread across many products rather than being dominated by a small top tier.
 
@@ -63,8 +63,7 @@ Questions explored:
 
 What stood out:
 - The biggest and most consistent drop-off happens between add-to-cart and checkout.
-- Conversion rates are fairly similar across channels, suggesting that scale and efficiency matter more than structural differences in the funnel.
-- Paid and referral traffic generate higher revenue per session, even though they contribute less overall volume than organic and direct.
+- Customers who repeat purchase within the first year don't always return immediately, with a median length of 170 days.
 
 ![Retention and Funnel Dashboard](assets/screenshots/dashboard_03_retention_funnel.png)
 
