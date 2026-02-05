@@ -36,6 +36,24 @@ What stood out:
 
 ## Dashboard 2: Growth Levers (Channels and Funnel)
 
+This dashboard focuses on repeat behavior, cart size, and product concentration.
+
+Questions explored:
+- How long it takes customers to make a second purchase
+- How cart size relates to conversion and revenue
+- Whether revenue is concentrated among a small number of products
+
+What stood out:
+- Customers who repeat purchase within the first year don't always return immediately, with a median length of 170 days.
+- Larger carts don't create a decline in conversion rate, but most sessions still involve small baskets.
+- Revenue is spread across many products rather than being dominated by a small top tier.
+
+![Growth Levers Dashboard](assets/screenshots/dashboard_02_growth_levers.png)
+
+---
+
+## Dashboard 3: Retention and Merchandising
+
 This dashboard looks at acquisition sources and funnel behavior.
 
 Questions explored:
@@ -47,24 +65,6 @@ What stood out:
 - The biggest and most consistent drop-off happens between add-to-cart and checkout.
 - Conversion rates are fairly similar across channels, suggesting that scale and efficiency matter more than structural differences in the funnel.
 - Paid and referral traffic generate higher revenue per session, even though they contribute less overall volume than organic and direct.
-
-![Growth Levers Dashboard](assets/screenshots/dashboard_02_growth_levers.png)
-
----
-
-## Dashboard 3: Retention and Merchandising
-
-This dashboard focuses on repeat behavior, cart size, and product concentration.
-
-Questions explored:
-- How long it takes customers to make a second purchase
-- How cart size relates to conversion and revenue
-- Whether revenue is concentrated among a small number of products
-
-What stood out:
-- Customers who repeat tend to do so within the first year, often within the first few months.
-- Larger carts convert slightly better, but most sessions still involve small baskets.
-- Revenue is spread across many products rather than being dominated by a small top tier.
 
 ![Retention and Funnel Dashboard](assets/screenshots/dashboard_03_retention_funnel.png)
 
